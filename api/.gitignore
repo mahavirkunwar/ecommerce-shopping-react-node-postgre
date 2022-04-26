@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# VSCode
+.vscode
+
+# Package Cache
+.cache
+
+# ignore config files
+config/config.json
+.sequelizerc
